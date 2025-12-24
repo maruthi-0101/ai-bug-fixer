@@ -1,0 +1,21 @@
+# Python Errors - Sample Data
+# ============================
+# Common Python errors for testing the AI Bug Fixer
+
+# Example 1: IndentationError
+def hello():
+print("Hello")
+
+# Example 2: NameError
+print(undefined_variable)
+
+# Example 3: TypeError
+result = "5" + 5
+
+# Example 4: IndexError
+my_list = [1, 2, 3]
+print(my_list[10])
+
+# Example 5: SyntaxError
+if True
+    print("Missing colon")

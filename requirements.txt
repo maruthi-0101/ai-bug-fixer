@@ -1,0 +1,12 @@
+# AI Bug Fixer - Requirements
+# ===========================
+
+# Web UI
+gradio>=4.0.0
+
+# LLM / Transformers
+transformers>=4.30.0
+torch>=2.0.0
+
+# Environment Management
+python-dotenv>=1.0.0
